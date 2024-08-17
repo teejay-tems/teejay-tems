@@ -43,9 +43,12 @@ Here are some of the projects I've worked on:
 
 ---
 
-## 🛠️ Get in Touch
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/temirestephany/) for more details about my work.
+ ## 📬 Get in Touch
 
+Feel free to connect with me through the following:
+
+- [LinkedIn](https://www.linkedin.com/in/temirestephany/)
+- [Email](mailto:your.temirestephany@gmail.com)
 ---
 
 
