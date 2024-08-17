@@ -1,16 +1,15 @@
 ## Hi👋, I'm Temire Stephany!
 ---
 ## I'm a Self-Taught, Contributor, and Researcher!!
----
-
-![Data Analyst](https://img.shields.io/badge/Data_Analyst-Excel%2C_SQL%2C_PowerBI%2C_Python-blue)
 
 - 🔭 Self-Learning right now. I'm documenting my journey on social...
 - 🧙‍♂️ I'm a Data Analyst!
 - 👯 Fun fact: I love to watching football and meet new people
-- 🥅 2024 Goals: Improving my analytical knowledge!
+- 🥅 2024 Goals: Daily Improve my analytical knowledge!
 
 ## About me
+![Data Analyst](https://img.shields.io/badge/Data_Analyst-Excel%2C_SQL%2C_PowerBI%2C_Python-blue)
+
 I'm a passionate **Data Analyst** with expertise in Microsoft Excel, SQL, Power BI, and Python. I have a strong track record of converting complex data into actionable insights that guide strategic decision-making. My strengths lie in identifying trends, patterns, and predictions through in-depth analysis. Additionally, I specialize in crafting compelling data visualizations and dashboards, delivering insights that are ready for stakeholders. With a meticulous approach and dedication to excellence, I consistently add value in the field of data analytics. 
 
  My key skills include:
