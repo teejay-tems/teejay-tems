@@ -48,7 +48,7 @@ Here are some of the projects I've worked on:
 Feel free to connect with me through the following:
 
 - [LinkedIn](https://www.linkedin.com/in/temirestephany/)
-- [Email](mailto:your.temirestephany@gmail.com)
+- [Email](mailto:temirestephany@gmail.com)
 ---
 
 
