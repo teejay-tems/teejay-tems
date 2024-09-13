@@ -4,7 +4,7 @@
 
 - 🔭 Self-Learning right now. I'm documenting my journey on social...
 - 🧙‍♂️ I'm a Data Analyst!
-- 👯 Fun fact: I love to watching football and meet new people
+- 👯 Fun fact: I love to watch football and meet new people
 - 🥅 2024 Goals: Daily Improve my analytical knowledge!
 
 ## About me
