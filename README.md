@@ -34,12 +34,6 @@ Here are some of the projects I've worked on:
 
 - **[Project 1: Sales Analysis](https://github.com/teejay-tems/Electronics-Retailers)**  
   Leveraged Excel and Power BI to analyze sales data and uncover key trends.
-  
-- **[Project 2: Customer Segmentation](https://github.com/yourusername/project-2)**  
-  Used Python and SQL to segment customers and drive targeted marketing efforts.
-
-- **[Project 3: Predictive Analytics](https://github.com/yourusername/project-3)**  
-  Built predictive models in Python to forecast product demand.
 
 ---
 
