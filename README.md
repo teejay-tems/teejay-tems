@@ -1,11 +1,11 @@
 ## Hi👋, I'm Temire Stephany!
 ---
-## I'm a Self-Taught, Contributor, and Researcher!!
+## I'm a Self-Taught Contributor, and Researcher!
 
 - 🔭 Self-Learning right now. I'm documenting my journey on social...
 - 🧙‍♂️ I'm a Data Analyst!
 - 👯 Fun fact: I love to watch football and meet new people
-- 🥅 2024 Goals: Daily Improve my analytical knowledge!
+- 🥅 2024 Goals: Improve my analytical knowledge daily!
 
 ## About me
 ![Data Analyst](https://img.shields.io/badge/Data_Analyst-Excel%2C_SQL%2C_PowerBI%2C_Python-blue)
